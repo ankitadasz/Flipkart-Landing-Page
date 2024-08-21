@@ -186,6 +186,7 @@ font-weight: 500;
 }
 .electronicbox{
     display: flex;
+    font-family: 'Roboto', sans-serif;
 }
 #offer{
     width: 15vw;
