@@ -51,4 +51,12 @@ a{
     background-position: 10px center;
     margin-right: 10px;
 }
+#btn{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #2874F0;
+    border: 2px solid white;
+    color: white;
+    font-weight: 600;
+}
 
