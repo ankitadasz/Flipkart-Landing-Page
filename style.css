@@ -166,3 +166,27 @@ font-weight: 500;
     text-align: center;
     gap: 10px;
 }
+#trimer{
+    display: flex;
+    flex-direction: column;
+    border: 0.1px dashed;
+    padding: 10px 20px;
+    text-align: center;
+    gap: 10px;
+}
+#speaker{
+    display: flex;
+    flex-direction: column;
+    border: 0.1px dashed;
+    padding: 10px 20px;
+    text-align: center;
+    gap: 10px;
+}
+#tv{
+    display: flex;
+    flex-direction: column;
+    border: 0.1px dashed;
+    padding: 10px 20px;
+    text-align: center;
+    gap: 10px;
+}
