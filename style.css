@@ -6,15 +6,25 @@
 body{
     width: 100%;
     height: 100%;
+    
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700; 
+    transform: skewX(-10deg); /* Tilt the text */
+    display: inline-block;
 }
 a{
     text-decoration: none;
+    
 }
 .navbar{
     display: flex;
     background-color: #2874F0;
     align-items: center;
     padding: 17px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;*/
 }
 .navbar h2{
     color: white;
