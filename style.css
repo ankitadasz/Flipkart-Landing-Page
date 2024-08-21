@@ -28,3 +28,8 @@ a{
 .left a{
     color: white;
 }
+#search{
+    width: 29vw;
+    height: 5vh;
+   
+}
