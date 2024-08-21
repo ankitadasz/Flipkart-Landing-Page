@@ -107,6 +107,11 @@ a{
 #electronics{
     padding-top: 10px;
     margin-bottom: 20px;
-    
-   
+}
+#mainimg{
+    width: 97%;
+    height:40vh;
+    margin: 8px 20px;
+    object-fit: cover;
+    overflow: hidden;
 }
