@@ -117,6 +117,30 @@ a{
     object-fit: cover;
     overflow: hidden;
 }
-.part3{
+.part4{
     background-color: white;
+    margin: 10px 20px;
+}
+.part4 h1{
+padding: 20px;
+font-family: 'Roboto', sans-serif;
+font-weight: 500;
+}
+.products{
+    display: flex;
+    gap: 1vw;
+    
+}
+.products img{
+    width: 15vw;
+    height: 43vh;
+    border: 2px solid black;
+    padding: 10px;
+}
+#offer{
+    width: 15vw;
+    height: 50vh;
+    object-fit: cover;
+    border: none;
+    margin-bottom: 0px;
 }
