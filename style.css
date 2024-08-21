@@ -121,11 +121,16 @@ a{
     background-color: white;
     margin: 10px 20px;
     display: flex;
+    flex-direction: column;
 }
 .part4 h1{
 padding: 20px;
 font-family: 'Roboto', sans-serif;
 font-weight: 500;
+}
+.electronicsection{
+    display: flex;
+    gap: 1vw;
 }
 .products{
     display: flex;
@@ -135,8 +140,7 @@ font-weight: 500;
 .products img{
     width: 15vw;
     height: 43vh;
-    border: 2px solid black;
-    padding: 10px;
+
 }
 #offer{
     width: 15vw;
@@ -144,4 +148,12 @@ font-weight: 500;
     object-fit: cover;
     border: none;
     margin-bottom: 0px;
+}
+#headphones{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    gap: 10px;
 }
