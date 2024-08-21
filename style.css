@@ -120,6 +120,7 @@ a{
 .part4{
     background-color: white;
     margin: 10px 20px;
+    display: flex;
 }
 .part4 h1{
 padding: 20px;
