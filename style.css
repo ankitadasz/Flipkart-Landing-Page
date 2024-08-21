@@ -59,5 +59,10 @@ a{
     color: white;
     font-weight: 600;
 }
-
+.right{
+    margin-left: 15%;
+}
+#cart{
+    margin-right: 30px;
+}
 
