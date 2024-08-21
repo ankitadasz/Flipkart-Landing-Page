@@ -88,10 +88,24 @@ a{
 .part2 {
     background-color: white;
     margin: 10px 20px; 
-    padding: 20px 50px;
+    padding: 10px 50px;
+   
 }
 
  .items{
     display: flex;
     gap: 4vw;
+    align-items: center;
+    text-align: center;
+}
+
+
+#fashion{
+    padding-bottom: 14px;
+   
+}
+#electronics{
+    
+    padding-bottom: 26px;
+   
 }
