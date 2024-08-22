@@ -199,3 +199,12 @@ font-weight: 500;
     display: flex;
     flex-direction: column;
 }
+.beautyproducts{
+    display: flex;
+    gap: 1vw;
+}
+#beauty{
+    width: 12vw;
+    height: 30vh;
+   
+}
