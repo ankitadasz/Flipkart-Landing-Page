@@ -195,3 +195,7 @@ font-weight: 500;
     border: none;
     margin-top: 40px;
 }
+.beautysection{
+    display: flex;
+    flex-direction: column;
+}
