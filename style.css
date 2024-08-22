@@ -202,6 +202,7 @@ font-weight: 500;
     margin: 10px 20px;
 }
 .beautyproducts{
+    margin-left: 5px;
     display: flex;
     gap: 1vw;
     text-align: center;
