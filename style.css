@@ -198,22 +198,27 @@ font-weight: 500;
     background-color: white;
     width: 45%;
     margin: 10px 20px;
+    
    
 } 
 .box h1{
     padding: 20px;
-font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
 font-weight: 500;
 }
 .box1{
-    
     display: flex;
-   
-   
+
 }
-.part1{
-   
+.toprated{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    line-height: 25px;
 }
-.part1 .part2{
-    display: flex;
+.toprated h4{
+color: green;
+}
+
+#top{
+    padding: 20px;
 }
