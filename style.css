@@ -198,13 +198,27 @@ font-weight: 500;
 .beautysection{
     display: flex;
     flex-direction: column;
+    background-color: white;
+    margin: 10px 20px;
 }
 .beautyproducts{
     display: flex;
     gap: 1vw;
+    text-align: center;
+    line-height: 25px;
 }
 #beauty{
+    display: flex;
+    flex-direction: column;
     width: 12vw;
     height: 30vh;
-   
+}
+.beautysection h1{
+    padding: 20px;
+font-family: 'Roboto', sans-serif;
+font-weight: 500;
+}
+.teddy{
+    border: 0.1px dashed;
+    padding: 10px 20px;
 }
