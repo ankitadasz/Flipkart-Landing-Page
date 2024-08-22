@@ -147,39 +147,7 @@ font-weight: 500;
 #headphones{
     display: flex;
     flex-direction: column;
-    border: 0.1px dashed;
-    padding: 10px 20px;
-    text-align: center;
-    gap: 10px;
-}
-#watches{
-    display: flex;
-    flex-direction: column;
-    border: 0.1px dashed;
-    padding: 10px 20px;
-    text-align: center;
-    gap: 10px;
-}
-#trimer{
-    display: flex;
-    flex-direction: column;
-    border: 0.1px dashed;
-    padding: 10px 20px;
-    text-align: center;
-    gap: 10px;
-}
-#speaker{
-    display: flex;
-    flex-direction: column;
-    border: 0.1px dashed;
-    padding: 10px 20px;
-    text-align: center;
-    gap: 10px;
-}
-#tv{
-    display: flex;
-    flex-direction: column;
-    border: 0.1px dashed;
+    border:
     padding: 10px 20px;
     text-align: center;
     gap: 10px;
@@ -220,6 +188,7 @@ font-family: 'Roboto', sans-serif;
 font-weight: 500;
 }
 .teddy{
-    border: 0.1px dashed;
+    border: 2px solid #E0E0E0;
     padding: 10px 20px;
+    font-family: 'Roboto', sans-serif;
 }
