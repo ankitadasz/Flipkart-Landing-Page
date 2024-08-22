@@ -147,7 +147,7 @@ font-weight: 500;
 #headphones{
     display: flex;
     flex-direction: column;
-    border:
+    border: 2px solid #E0E0E0;
     padding: 10px 20px;
     text-align: center;
     gap: 10px;
