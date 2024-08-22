@@ -209,11 +209,13 @@ font-weight: 500;
 .box1{
     display: flex;
     flex-direction: column;
+    height: 110vh;
 
 }
 .boxpart1 {
     display: flex;
     flex-direction: row;
+    gap: 5vw;
 }
 .boxpart2{
     display: flex;
@@ -228,5 +230,12 @@ color: green;
 }
 
 #top{
-    padding: 20px;
+   padding: 20px;
+}
+#top3{
+    margin-top: -32px;
+}
+#fullpic{
+    width: 20vw;
+    height: 100vh;
 }
