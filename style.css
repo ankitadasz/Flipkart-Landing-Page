@@ -192,3 +192,28 @@ font-weight: 500;
     padding: 10px 20px;
     font-family: 'Roboto', sans-serif;
 }
+.box{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 45%;
+    margin: 10px 20px;
+   
+} 
+.box h1{
+    padding: 20px;
+font-family: 'Roboto', sans-serif;
+font-weight: 500;
+}
+.box1{
+    
+    display: flex;
+   
+   
+}
+.part1{
+   
+}
+.part1 .part2{
+    display: flex;
+}
