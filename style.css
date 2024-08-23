@@ -255,3 +255,27 @@ padding: 20px;
     display: flex;
 
 }
+
+.footer{
+    display: flex;
+    gap: 5vw;
+    margin-top: 0px;
+    background-color: black;
+    color: white;
+   padding: 40px 60px;
+    font-size: 0.8rem;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#heading{
+    color: grey;
+    font-size: 0.9rem;
+}
+.border{
+    border-left: 2px solid rgb(255, 255, 255);
+      height: 160px;
+      position:absolute;
+      left: 62%;
+      
+}
