@@ -237,8 +237,9 @@ color: green;
 }
 #fullpic{
     margin-top: 10px;
-  width: 50%;
-  height: 110vh;
+  width: 99%;
+  height: 121vh;
+  margin-left: -11px;
 }
 .container{
     display: flex;
