@@ -242,6 +242,9 @@ color: green;
 .top4{
 padding: 20px;
 }
+#top4{
+    margin-top: -32px;
+}
 #fullpic{
     margin-top: 10px;
   width: 99%;
