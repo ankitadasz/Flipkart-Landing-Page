@@ -215,7 +215,7 @@ font-weight: 500;
 .boxpart1 {
     display: flex;
     flex-direction: row;
-    gap: 5vw;
+    
 }
 .boxpart2{
     display: flex;
@@ -229,12 +229,18 @@ font-weight: 500;
 .toprated h4{
 color: green;
 }
-
-#top{
-   padding: 20px;
+.top1{
+    padding:  42px;
 }
-#top3{
-    margin-top: -32px;
+.top2{
+    padding: 40px 59px;
+}
+.top3{
+    margin-top: 20px;
+    padding: 20px;
+}
+.top4{
+padding: 20px;
 }
 #fullpic{
     margin-top: 10px;
