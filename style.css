@@ -192,7 +192,7 @@ font-weight: 500;
     padding: 10px 20px;
     font-family: 'Roboto', sans-serif;
 }
-.box{
+/*.box{
     display: flex;
     flex-direction: column;
     background-color: white;
@@ -224,7 +224,6 @@ font-weight: 500;
     text-align: center;
     font-family: 'Roboto', sans-serif;
     line-height: 25px;
-    border: 2px solid #E0E0E0;
 }
 .toprated h4{
 color: green;
@@ -237,6 +236,31 @@ color: green;
     margin-top: -32px;
 }
 #fullpic{
-    width: 20vw;
-    height: 100vh;
+  width: 50%;
+  height: 110vh;
+}*/
+/* Add a new class for the flex container */
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start; /* Aligns items to the top */
+    margin: 10px 20px; /* Adjust as needed */
+}
+
+/* Adjust width of .box and .box2 */
+.box {
+    width: 50%; /* Adjust as needed */
+    margin: 0; /* Remove margins */
+}
+
+.box2 {
+    width: 50%;
+    margin: 0; /* Remove margins */
+    display: flex;
+    justify-content: flex-end;
+}
+
+#fullpic {
+    width: 100%;
+    height: auto; /* Adjust height based on your requirement */
 }
