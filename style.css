@@ -277,5 +277,13 @@ padding: 20px;
       height: 160px;
       position:absolute;
       left: 62%;
-      
+}
+.lastfooter{
+    background-color: grey;
+    text-align: center;
+    padding-top: 5px ;
+    height: 30px;
+    font-size: 1.2rem;
+    color: rgb(247, 221, 221);
+    margin: 0px 20px;
 }
