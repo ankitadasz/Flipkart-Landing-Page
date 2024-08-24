@@ -282,12 +282,13 @@ padding: 20px;
       position:absolute;
       left: 62%;
 }
-.part2tfooter{
-   
+.part2footer{
+   background-color: black;
     text-align: center;
     padding-top: 5px ;
     height: 30px;
-    font-size: 1.2rem;
+    font-size: 1rem;
     color: rgb(247, 221, 221);
-    margin: 0px 20px;
+    font-family: 'Roboto', sans-serif;
+   
 }
