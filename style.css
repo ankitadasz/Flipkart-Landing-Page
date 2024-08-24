@@ -255,8 +255,12 @@ padding: 20px;
     display: flex;
 
 }
-
 .footer{
+    display: flex;
+    flex-direction: column;
+}
+
+.part1footer{
     display: flex;
     gap: 5vw;
     margin-top: 0px;
@@ -265,8 +269,8 @@ padding: 20px;
    padding: 40px 60px;
     font-size: 0.8rem;
     font-family: 'Roboto', sans-serif;
-    margin-left: 20px;
-    margin-right: 20px;
+   /* margin-left: 20px;
+    margin-right: 20px;*/
 }
 #heading{
     color: grey;
@@ -278,8 +282,8 @@ padding: 20px;
       position:absolute;
       left: 62%;
 }
-.lastfooter{
-    background-color: grey;
+.part2tfooter{
+   
     text-align: center;
     padding-top: 5px ;
     height: 30px;
