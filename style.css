@@ -251,9 +251,10 @@ padding: 20px;
 }
 #fullpic{
     margin-top: 10px;
-   width:130%;
+   width:139%;
   height: 121vh;
-  margin-left: 10px;
+  margin-left: px;
+  border: 2px solid rgb(0, 0, 0);
 }
 .container{
     display: flex;
